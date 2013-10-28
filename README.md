@@ -1,4 +1,4 @@
-codeeval
+CodeEval
 ========
 
-Solutions to CodeEval problems
+Solutions to CodeEval problems.
