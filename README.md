@@ -1,4 +1,4 @@
 CodeEval
 ========
 
-Solutions to CodeEval problems.
+Solutions to [CodeEval](https://www.codeeval.com/) problems.
