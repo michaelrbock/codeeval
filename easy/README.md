@@ -6,3 +6,4 @@
 * [Prime Palindrome](https://www.codeeval.com/open_challenges/3/)
 * [Lowercase](https://www.codeeval.com/open_challenges/20/)
 * [Fibonacci Series](https://www.codeeval.com/open_challenges/22/)
+* [Beautiful Strings](https://www.codeeval.com/open_challenges/83/)
