@@ -1,5 +1,4 @@
 import sys
-import operator
 
 # read in from file
 input = open(sys.argv[1], 'r')
