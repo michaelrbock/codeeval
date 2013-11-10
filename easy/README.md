@@ -7,3 +7,4 @@
 * [Lowercase](https://www.codeeval.com/open_challenges/20/)
 * [Fibonacci Series](https://www.codeeval.com/open_challenges/22/)
 * [Beautiful Strings](https://www.codeeval.com/open_challenges/83/)
+* [Query Board](https://www.codeeval.com/open_challenges/87/)
