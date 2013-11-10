@@ -8,3 +8,4 @@
 * [Fibonacci Series](https://www.codeeval.com/open_challenges/22/)
 * [Beautiful Strings](https://www.codeeval.com/open_challenges/83/)
 * [Query Board](https://www.codeeval.com/open_challenges/87/)
+* [Mixed Content](https://www.codeeval.com/open_challenges/115/)
