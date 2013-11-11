@@ -7,3 +7,4 @@
 * [Longest Lines](https://www.codeeval.com/open_challenges/2/)
 * [Pangrams](https://www.codeeval.com/open_challenges/37/)
 * [Sum of Integers](https://www.codeeval.com/open_challenges/17/)
+* [Jolly Jumpers](https://www.codeeval.com/open_challenges/43/)
