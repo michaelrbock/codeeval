@@ -2,7 +2,10 @@
 
 * [Beautiful Strings](https://www.codeeval.com/open_challenges/83/)
 * [Fibonacci Series](https://www.codeeval.com/open_challenges/22/)
+* [Find a Writer](https://www.codeeval.com/open_challenges/97/)
 * [Fizz Buzz](https://www.codeeval.com/open_challenges/1/)
+* [Hidden Digits](https://www.codeeval.com/open_challenges/122/)
+* [JSON Menu IDs](https://www.codeeval.com/open_challenges/102/)
 * [Longest Word](https://www.codeeval.com/open_challenges/111/)
 * [Lowercase](https://www.codeeval.com/open_challenges/20/)
 * [Mixed Content](https://www.codeeval.com/open_challenges/115/)
@@ -11,6 +14,7 @@
 * [Query Board](https://www.codeeval.com/open_challenges/87/)
 * [Reverse Words](https://www.codeeval.com/open_challenges/8/)
 * [Self Describing Numbers](https://www.codeeval.com/open_challenges/40/)
+* [Simple Sorting](https://www.codeeval.com/open_challenges/91/)
 * [Sum of Digits](https://www.codeeval.com/open_challenges/21/)
 * [Sum of Primes](https://www.codeeval.com/open_challenges/4/)
 * [Swap Case](https://www.codeeval.com/open_challenges/96/)
