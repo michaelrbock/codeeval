@@ -1,9 +1,11 @@
 ##Problem Descriptions
 
 * [Beautiful Strings](https://www.codeeval.com/open_challenges/83/)
+* [Capitalize Words](https://www.codeeval.com/open_challenges/93/)
 * [Fibonacci Series](https://www.codeeval.com/open_challenges/22/)
 * [Find a Writer](https://www.codeeval.com/open_challenges/97/)
 * [Fizz Buzz](https://www.codeeval.com/open_challenges/1/)
+* [Hex to Decimal](https://www.codeeval.com/open_challenges/67/)
 * [Hidden Digits](https://www.codeeval.com/open_challenges/122/)
 * [JSON Menu IDs](https://www.codeeval.com/open_challenges/102/)
 * [Longest Word](https://www.codeeval.com/open_challenges/111/)
