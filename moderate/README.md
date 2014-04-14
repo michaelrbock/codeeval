@@ -4,6 +4,7 @@
 * [Email Validation](https://www.codeeval.com/open_challenges/35/)
 * [Jolly Jumpers](https://www.codeeval.com/open_challenges/43/)
 * [Longest Lines](https://www.codeeval.com/open_challenges/2/)
+* [Minimum Coins](https://www.codeeval.com/open_challenges/74/)
 * [Mth to last element](https://www.codeeval.com/open_challenges/10/)
 * [Number of Ones](https://www.codeeval.com/open_challenges/16/)
 * [Pangrams](https://www.codeeval.com/open_challenges/37/)
