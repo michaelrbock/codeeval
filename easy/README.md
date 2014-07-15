@@ -8,6 +8,7 @@
 * [Hex to Decimal](https://www.codeeval.com/open_challenges/67/)
 * [Hidden Digits](https://www.codeeval.com/open_challenges/122/)
 * [JSON Menu IDs](https://www.codeeval.com/open_challenges/102/)
+* [Lettercase Percentage Ratio](https://www.codeeval.com/open_challenges/147/)
 * [Longest Word](https://www.codeeval.com/open_challenges/111/)
 * [Lowercase](https://www.codeeval.com/open_challenges/20/)
 * [Mixed Content](https://www.codeeval.com/open_challenges/115/)
