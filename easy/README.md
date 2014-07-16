@@ -15,6 +15,7 @@
 * [Penultimate Word](https://www.codeeval.com/open_challenges/92/)
 * [Prime Palindrome](https://www.codeeval.com/open_challenges/3/)
 * [Query Board](https://www.codeeval.com/open_challenges/87/)
+* [Rightmost Char](https://www.codeeval.com/open_challenges/31/)
 * [Reverse Words](https://www.codeeval.com/open_challenges/8/)
 * [Self Describing Numbers](https://www.codeeval.com/open_challenges/40/)
 * [Simple Sorting](https://www.codeeval.com/open_challenges/91/)

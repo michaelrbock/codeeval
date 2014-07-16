@@ -2,6 +2,7 @@
 
 * [Decimal to Binary](https://www.codeeval.com/open_challenges/27/)
 * [Email Validation](https://www.codeeval.com/open_challenges/35/)
+* [First Non-Repeated Character](https://www.codeeval.com/open_challenges/12/)
 * [Jolly Jumpers](https://www.codeeval.com/open_challenges/43/)
 * [Longest Lines](https://www.codeeval.com/open_challenges/2/)
 * [Minimum Coins](https://www.codeeval.com/open_challenges/74/)
